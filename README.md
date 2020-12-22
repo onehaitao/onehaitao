@@ -2,7 +2,7 @@
 My name is Haitao Wang.
 - 👻  I’m a postgraduate student in Soochow University with majors in computer science and technology. 
 - ⚽ My research interests include natural language processing and knowledge graph, especially relation extraction and event extraction.
-- ✉️ How to reach me: *Star*, *Issue* or *Follow*. :)
+- ✉️ How to reach me: *Star*, *Issue* or *Follow*.&nbsp; :)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onehaitao&show_icons=true&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onehaitao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
