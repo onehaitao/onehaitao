@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Haitao Wang.
-- 👻 I’m an ordinary programmer. 
+- 👻 I’m a programmer. 
 - ⚽ My research interests include relation extraction and event extraction.
 - ✉️ How to reach me: *Star*, *Issue* or *Follow*.&nbsp; :)
 
