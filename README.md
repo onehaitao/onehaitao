@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Haitao Wang.
-- 👻 An ordinary programmer, enjoy life.
-- ⚽ My research interests include relation extraction and event extraction.
+- 👻 An ordinary coder, enjoy life and love technology.
+- ⚽ Interested in information extraction and natural language understanding.
 - ✉️ How to reach me: *Star*, *Issue* or *Follow*.&nbsp; :)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onehaitao&show_icons=true)
